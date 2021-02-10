@@ -1,0 +1,79 @@
+#tab1{
+    background-color: #b5b2b2;
+    margin-left: 630px;
+    margin-top: 60px;
+}
+
+#tab2{
+    background-color: #b5b2b2;
+    margin-top: 60px;
+}
+
+#fotos-feed{
+    margin-top: 60px;
+}
+
+#fotos-post{
+    margin-top: 60px;
+}
+
+#header{
+    height: 90px;
+    margin-left: 170px;
+}
+
+#nombre{
+ margin-top: 25px;
+
+}
+
+#fecha{
+    text-align: end;
+    margin-top: 30px;
+}
+
+#foto{
+    margin-left: 170px;
+    height: 500px;
+}
+
+#iconos{
+    margin-left: 170px;
+    height: 30px;
+}
+
+#footer{
+    margin-left: 170px;
+    height: 90px;
+}
+
+#save{
+    padding-left: 430px;
+}
+
+#parra{
+    margin-left: 10px;
+    margin-top: 10px
+}
+
+#new{
+    width: 1500px;
+    background-color: #e86991;
+}
+
+#publicar{
+    background-color: #e86991
+}
+
+#instagram{
+    margin-right: 800px
+}
+
+
+#pills-home-tab:hover, #pills-profile-tab:hover {
+    background-color: #e86991;
+}
+
+.nav-pills > li > a.active {
+    background-color: #e86991!important;
+}
